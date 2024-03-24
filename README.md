@@ -15,11 +15,13 @@ So2Sat LCZ42 ([Zhu et al. 2020](https://doi.org/10.1109/MGRS.2020.2964708)) | MS
 Sen1Floods11 ([Bonafilia et al. 2020](https://doi.org/10.1109/CVPRW50498.2020.00113)) | MS optical (S2), SAR (S1) | :-1: | Image Segmentation | Global | https://github.com/cloudtostreet/Sen1Floods11 | .. |
 AI4Food ([Kondmann et al. 2021](https://openreview.net/forum?id=uUa4jNMLjrL)) | 2 MS optical (S2, PlanetFusion), SAR (S1) | :+1: | Image Classification | Germany | https://doi.org/10.34911/rdnt.z9y7vu | .. |
 ForestNet ([Irvin et al. 2020](https://arxiv.org/abs/2011.05479)) | MS optical (L8), DSM (SRTM), weather (NCEP) | :+1: | Image Segmentation | Indonesia | https://stanfordmlgroup.github.io/projects/forestnet/ |.. |
+LFMC from SAR ([Rao et al](https://doi.org/10.1016/j.rse.2020.111797)) | MS Optical (L8), SAR (S1), weather, elevation, soil | :+1: |  Pixel-wise Regression | USA | https://github.com/kkraoj/lfmc_from_sar | https://beta.source.coop/repositories/stanford/sar-moisture-conent/description/ |
 Dams ([Donchyts et al. 2021](https://ui.adsabs.harvard.edu/abs/2021AGUFMGC43D..05D/abstract)) | MS optical (S2) including VI, SAR (S1), DSM | :-1: | Image Segmentation | Global | https://www.kaggle.com/datasets/gdonchyts/global-dams-from-space | .. |
 LandCoverNet ([Alemohammad et al. 2021](https://doi.org/10.34911/rdnt.d2ce8i)) | 2 MS optical (S2, L8), SAR (S1) | :+1:  | Image Segmentation | Global | https://doi.org/10.34911/rdnt.d2ce8i | .. |
 BigEarthNet-MM ([Sumbul et al. 2021](https://10.1109/MGRS.2021.3089174)) | MS optical (S2), SAR (S1) | :-1: | Multi-label Classification | Europe | https://bigearth.net/ | .. |
 EarthNet ([Requena et al. 2021](https://doi.org/10.1109/CVPRW53098.2021.00124)) | MS optical (S2), weather (E-OBS), DSM (EUDEM) | :+1: | Image Regression | Europe | https://www.earthnet.tech/ | https://www.earthnet.tech/en21x/download/ |
 CropHarvest ([Tseng et al. 2021](https://openreview.net/forum?id=JtjzUXPEaCu)) | MS optical+NDVI (S2), SAR (S1), weather (ERA5), DSM (SRTM) |  :+1: | Pixel-wise Classification | Global | https://github.com/nasaharvest/cropharvest | .. |
+MultiSenGE ([Wenger et al. 2022](https://isprs-annals.copernicus.org/articles/V-3-2022/635/2022/)) | MS optical (S2), SAR (S1) | :+1: | Image Segmentation | France | https://zenodo.org/records/6375466 | .. |
 DynamicEarthNet ([Toker et al. 2022](https://doi.org/10.1109/CVPR52688.2022.02048))| 2 MS optical (S2, PlanetFusion), SAR (S1) | :+1: | Image Segmentation | Global | https://mediatum.ub.tum.de/1483140 | https://doi.org/10.14459/2018mp1483140 |
 Ombria ([Drakonakis et al. 2022](https://doi.org/10.1109/JSTARS.2022.3155559)) | MS optical (S2), SAR (S1) | :+1: | Image Segmentation | Global | https://github.com/geodrak/OMBRIA | .. |
 PASTIS-R ([Garnot et al. 2022](https://doi.org/10.1016/j.isprsjprs.2022.03.012)) | MS optical (S2), SAR (S1) | :+1: | Image Segmentation | France | https://github.com/VSainteuf/pastis-benchmark | .. |
@@ -31,6 +33,7 @@ MultiEarth  ([Cha et al. 2022](https://arxiv.org/abs/2306.04738)) | MS Optical (
 MDAS  ([Hu et al. 2023](https://doi.org/10.5194/essd-15-113-2023))| MS (S2) and HS (EnMAP, HySpex) optical, SAR (S1), DSM (DLR 3K) |  :-1: | Pixel-wise Classification |  Germany | https://mediatum.ub.tum.de/1657312 | https://doi.org/10.14459/2022mp1657312 |
 TreeSatAI ([Ahlswede et al. 2023](https://doi.org/10.5194/essd-15-681-2023)) | 2 MS optical (S2, UAV), SAR (S1) | :-1: | Pixel-wise Classification | Germany | https://zenodo.org/record/6780578 | https://doi.org/10.5281/zenodo.6780578 |
 BEN-GE ([Mommert et al. 2023](https://arxiv.org/abs/2307.01741)) | MS optical (S2), SAR (S1), DSM (GLO-30), weather (ERA5) | :-1: | Image Segmentation | Europe | https://github.com/HSG-AIML/ben-ge | .. |
+Crop Yield Prediction ([Perich et al. 2023](https://doi.org/10.1016/j.fcr.2023.108824))| MS optical (S2), weather | :+1: | Pixel-wise regression | Switzerland | https://www.research-collection.ethz.ch/handle/20.500.11850/595228 | ..|
 
 * The *RS Views* column contains the views (and source where it was obtained), *Temporal?* column indicates if the labels have a temporal scope. 
 
