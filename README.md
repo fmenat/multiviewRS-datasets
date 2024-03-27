@@ -34,6 +34,7 @@ MDAS  ([Hu et al. 2023](https://doi.org/10.5194/essd-15-113-2023))| MS (S2) and 
 TreeSatAI ([Ahlswede et al. 2023](https://doi.org/10.5194/essd-15-681-2023)) | 2 MS optical (S2, UAV), SAR (S1) | :-1: | Pixel-wise Classification | Germany | https://zenodo.org/record/6780578 | https://doi.org/10.5281/zenodo.6780578 |
 BEN-GE ([Mommert et al. 2023](https://arxiv.org/abs/2307.01741)) | MS optical (S2), SAR (S1), DSM (GLO-30), weather (ERA5) | :-1: | Image Segmentation | Europe | https://github.com/HSG-AIML/ben-ge | .. |
 Crop Yield Prediction ([Perich et al. 2023](https://doi.org/10.1016/j.fcr.2023.108824))| MS optical (S2), weather | :+1: | Pixel-wise regression | Switzerland | https://www.research-collection.ethz.ch/handle/20.500.11850/595228 | ..|
+GreenEarthNet ([Benson et al. 2024]()) | MS optical (S2), weather, elevation | :+1: | Image Regression | Europe | https://github.com/earthnet2021/earthnet-minicuber |
 
 * The *RS Views* column contains the views (and source where it was obtained), *Temporal?* column indicates if the labels have a temporal scope. 
 
