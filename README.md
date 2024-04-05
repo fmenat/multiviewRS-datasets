@@ -29,12 +29,15 @@ SEN12MS-CR-TS ([Ebel et al. 2022](https://doi.org/10.1109/TGRS.2022.3146246)) | 
 WHU-OPT-SAR ([Li et al. 2022](https://doi.org/10.1016/j.jag.2021.102638)) | MS Optical (G1), SAR (G3) | :-1: | Image Segmentation | China | https://github.com/AmberHen/WHU-OPT-SAR-dataset | .. |
 CloudSEN12 ([Aybar et al. 2022](https://doi.org/10.1038/s41597-022-01878-2)) | MS optical (S2), SAR (S1), DSM (MERIT) | :-1: | Image Segmentation | Global | https://cloudsen12.github.io/ | .. |       
 Satlas ([Bastani et al. 2022](https://arxiv.org/abs/2211.15660)) | MS optical (S2 and NAIP) | :+1: | Multiple Tasks | Global | https://github.com/allenai/satlas | .. |
-MultiEarth  ([Cha et al. 2022](https://arxiv.org/abs/2306.04738)) | MS Optical (S2 and L8), SAR (S1) | :+1: | Multiple Tasks | Global | https://sites.google.com/view/rainforest-challenge/multiearth-2023 | .. |
+MultiEarth  ([Cha et al. 2022](https://arxiv.org/abs/2306.04738)) | MS optical (S2 and L8), SAR (S1) | :+1: | Multiple Tasks | Global | https://sites.google.com/view/rainforest-challenge/multiearth-2023 | .. |
 MDAS  ([Hu et al. 2023](https://doi.org/10.5194/essd-15-113-2023))| MS (S2) and HS (EnMAP, HySpex) optical, SAR (S1), DSM (DLR 3K) |  :-1: | Pixel-wise Classification |  Germany | https://mediatum.ub.tum.de/1657312 | https://doi.org/10.14459/2022mp1657312 |
 TreeSatAI ([Ahlswede et al. 2023](https://doi.org/10.5194/essd-15-681-2023)) | 2 MS optical (S2, UAV), SAR (S1) | :-1: | Pixel-wise Classification | Germany | https://zenodo.org/record/6780578 | https://doi.org/10.5281/zenodo.6780578 |
 BEN-GE ([Mommert et al. 2023](https://arxiv.org/abs/2307.01741)) | MS optical (S2), SAR (S1), DSM (GLO-30), weather (ERA5) | :-1: | Image Segmentation | Europe | https://github.com/HSG-AIML/ben-ge | .. |
 Crop Yield Prediction ([Perich et al. 2023](https://doi.org/10.1016/j.fcr.2023.108824))| MS optical (S2), weather | :+1: | Pixel-wise regression | Switzerland | https://www.research-collection.ethz.ch/handle/20.500.11850/595228 | ..|
 GreenEarthNet ([Benson et al. 2024]()) | MS optical (S2), weather, elevation | :+1: | Image Regression | Europe | https://github.com/earthnet2021/earthnet-minicuber |
+SICKLE ([Sani et al. 2024](https://ieeexplore.ieee.org/abstract/document/10376769)) | MS optical (S2 and L8), Radar (S1) | :+1: | Image Regression, Segmentation | India| https://sites.google.com/iiitd.ac.in/sickle/home |
+CropNet Dataset ([Lin et al.](https://ieeexplore.ieee.org/abstract/document/10376769)) | Optical (S2), weather | :+1: | Image Regression | USA |  https://huggingface.co/datasets/fudong03/Tiny-CropNet |
+
 
 * The *RS Views* column contains the views (and source where it was obtained), *Temporal?* column indicates if the labels have a temporal scope. 
 
