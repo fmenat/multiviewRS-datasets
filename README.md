@@ -21,6 +21,7 @@ LandCoverNet ([Alemohammad et al. 2021](https://doi.org/10.34911/rdnt.d2ce8i)) |
 BigEarthNet-MM ([Sumbul et al. 2021](https://10.1109/MGRS.2021.3089174)) | MS optical (S2), SAR (S1) | :-1: | Multi-label Classification | Europe | https://bigearth.net/ | .. |
 EarthNet ([Requena et al. 2021](https://doi.org/10.1109/CVPRW53098.2021.00124)) | MS optical (S2), weather (E-OBS), DSM (EUDEM) | :+1: | Image Regression | Europe | https://www.earthnet.tech/ | https://www.earthnet.tech/en21x/download/ |
 CropHarvest ([Tseng et al. 2021](https://openreview.net/forum?id=JtjzUXPEaCu)) | MS optical+NDVI (S2), SAR (S1), weather (ERA5), DSM (SRTM) |  :+1: | Pixel-wise Classification | Global | https://github.com/nasaharvest/cropharvest | .. |
+RapidAI4EO ([Marchisio et al. 2021](https://ieeexplore.ieee.org/abstract/document/9883198)) | MS optical (S2), MS optical (Planet) | :+1: | Image segmentation | Europe | https://rapidai4eo.radiant.earth/ | .. |
 MultiSenGE ([Wenger et al. 2022](https://isprs-annals.copernicus.org/articles/V-3-2022/635/2022/)) | MS optical (S2), SAR (S1) | :+1: | Image Segmentation | France | https://zenodo.org/records/6375466 | .. |
 DynamicEarthNet ([Toker et al. 2022](https://doi.org/10.1109/CVPR52688.2022.02048))| 2 MS optical (S2, PlanetFusion), SAR (S1) | :+1: | Image Segmentation | Global | https://mediatum.ub.tum.de/1483140 | https://doi.org/10.14459/2018mp1483140 |
 Ombria ([Drakonakis et al. 2022](https://doi.org/10.1109/JSTARS.2022.3155559)) | MS optical (S2), SAR (S1) | :+1: | Image Segmentation | Global | https://github.com/geodrak/OMBRIA | .. |
@@ -34,7 +35,8 @@ MDAS  ([Hu et al. 2023](https://doi.org/10.5194/essd-15-113-2023))| MS (S2) and 
 TreeSatAI ([Ahlswede et al. 2023](https://doi.org/10.5194/essd-15-681-2023)) | 2 MS optical (S2, UAV), SAR (S1) | :-1: | Pixel-wise Classification | Germany | https://zenodo.org/record/6780578 | https://doi.org/10.5281/zenodo.6780578 |
 BEN-GE ([Mommert et al. 2023](https://arxiv.org/abs/2307.01741)) | MS optical (S2), SAR (S1), DSM (GLO-30), weather (ERA5) | :-1: | Image Segmentation | Europe | https://github.com/HSG-AIML/ben-ge | .. |
 Crop Yield Prediction ([Perich et al. 2023](https://doi.org/10.1016/j.fcr.2023.108824))| MS optical (S2), weather | :+1: | Pixel-wise regression | Switzerland | https://www.research-collection.ethz.ch/handle/20.500.11850/595228 | ..|
-GreenEarthNet ([Benson et al. 2024]()) | MS optical (S2), weather, elevation | :+1: | Image Regression | Europe | https://github.com/earthnet2021/earthnet-minicuber |
+Globe230k ([Shi et al. 2023](https://spj.science.org/doi/10.34133/remotesensing.0078)) | RGB+NDVI optical (S2), DEM (NASA), SAR (S1) | :-1: | Image Segmentation | Global | https://zenodo.org/records/8429200 |
+GreenEarthNet ([Benson et al. 2024](https://arxiv.org/abs/2303.16198)) | MS optical (S2), weather, elevation | :+1: | Image Regression | Europe | https://github.com/earthnet2021/earthnet-minicuber |
 SICKLE ([Sani et al. 2024](https://ieeexplore.ieee.org/abstract/document/10376769)) | MS optical (S2 and L8), Radar (S1) | :+1: | Image Regression, Segmentation | India| https://sites.google.com/iiitd.ac.in/sickle/home |
 CropNet Dataset ([Lin et al.](https://ieeexplore.ieee.org/abstract/document/10376769)) | Optical (S2), weather | :+1: | Image Regression | USA |  https://huggingface.co/datasets/fudong03/Tiny-CropNet |
 
