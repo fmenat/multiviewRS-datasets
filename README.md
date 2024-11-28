@@ -38,7 +38,10 @@ Crop Yield Prediction ([Perich et al. 2023](https://doi.org/10.1016/j.fcr.2023.1
 Globe230k ([Shi et al. 2023](https://spj.science.org/doi/10.34133/remotesensing.0078)) | RGB+NDVI optical (S2), DEM (NASA), SAR (S1) | :-1: | Image Segmentation | Global | https://zenodo.org/records/8429200 |
 GreenEarthNet ([Benson et al. 2024](https://arxiv.org/abs/2303.16198)) | MS optical (S2), weather, elevation | :+1: | Image Regression | Europe | https://github.com/earthnet2021/earthnet-minicuber |
 SICKLE ([Sani et al. 2024](https://ieeexplore.ieee.org/abstract/document/10376769)) | MS optical (S2 and L8), Radar (S1) | :+1: | Image Regression, Segmentation | India| https://sites.google.com/iiitd.ac.in/sickle/home |
-CropNet Dataset ([Lin et al.](https://ieeexplore.ieee.org/abstract/document/10376769)) | Optical (S2), weather | :+1: | Image Regression | USA |  https://huggingface.co/datasets/fudong03/Tiny-CropNet |
+CropNet Dataset ([Lin et al. 2024](https://ieeexplore.ieee.org/abstract/document/10376769)) | Optical (S2), weather | :+1: | Image Regression | USA |  https://huggingface.co/datasets/fudong03/Tiny-CropNet |
+Fields of The World (FTW)  ([Kernel et al. 2024](https://arxiv.org/abs/2409.16252v1)) | two optical images from S2 | :-1: | Image Segmentation | Global | https://source.coop/repositories/kerner-lab/fields-of-the-world/description|
+MMEarth ( [Nedungadi et al. 2024](http://arxiv.org/abs/2405.02771) ) | MS optical (S2), SAR (S1), DSM (aster DEM), vegetation height, landcover, biome, ecoregion, weather (ERA5) | :-1: | None (unsupervised) | Global | https://github.com/vishalned/MMEarth-data |
+
 
 
 * The *RS Views* column contains the views (and source where it was obtained), *Temporal?* column indicates if the labels have a temporal scope. 
