@@ -41,6 +41,7 @@ SICKLE ([Sani et al. 2024](https://ieeexplore.ieee.org/abstract/document/1037676
 CropNet Dataset ([Lin et al. 2024](https://ieeexplore.ieee.org/abstract/document/10376769)) | Optical (S2), weather | :+1: | Image Regression | USA |  https://huggingface.co/datasets/fudong03/Tiny-CropNet |
 Fields of The World (FTW)  ([Kernel et al. 2024](https://arxiv.org/abs/2409.16252v1)) | two optical images from S2 | :-1: | Image Segmentation | Global | https://source.coop/repositories/kerner-lab/fields-of-the-world/description|
 MMEarth ( [Nedungadi et al. 2024](http://arxiv.org/abs/2405.02771) ) | MS optical (S2), SAR (S1), DSM (aster DEM), vegetation height, landcover, biome, ecoregion, weather (ERA5) | :-1: | None (unsupervised) | Global | https://github.com/vishalned/MMEarth-data |
+CropDeepTrans ([Barriere et al. 2024](https://www.sciencedirect.com/science/article/pii/S0034425724001214)) | MS optical (S2), metadata | :+1: | Image Classification | Netherlands and France | https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/DRLL/CropDeepTrans/ |
 
 
 
