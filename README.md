@@ -1,10 +1,9 @@
 # :satellite: Remote Sensing based Multi-view Datasets
-List of remote sensing (RS) multi-view datasets for exploring multi-view fusion learning. :satellite: :earth_americas: :satellite:
 
-This is a complementary source used in the following paper:  
-```
-Common Practices and Taxonomy in Deep Multi-view Fusion for Remote Sensing Applications
-```
+> List created based on our work [*Common Practices and Taxonomy in Deep Multiview Fusion for Remote Sensing Applications*](https://ieeexplore.ieee.org/document/10418966)
+---
+
+List of remote sensing (RS) multi-view datasets for exploring multi-view fusion learning. :satellite: :earth_americas: :satellite:
 
 | Dataset | RS views | Temporal? | Task | Region | URL | Additional URL|
 |---------|----------|-----------|------|--------|-----|---------------|
