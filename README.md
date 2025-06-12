@@ -7,6 +7,8 @@ List of remote sensing (RS) multi-view datasets for exploring multi-view fusion 
 
 | Dataset | RS views | Temporal? | Task | Region | URL | Additional URL|
 |---------|----------|-----------|------|--------|-----|---------------|
+FLAIR-HUB ([Garioud et al.](https://arxiv.org/abs/2506.07080)) | MS optical (S2, SPOT), aerial, DEM, SAR (S1) | :-1: | Image Segmentation | France | https://huggingface.co/datasets/IGNF/FLAIR-HUB | ... |
+MagicBathyNet | optical (S2, SPOT), aerial, DEM | :-1: | Classification | Cyprus/Poland | https://zenodo.org/records/10470959 | ... |
 AllClear ([Zhou et al. 2024](http://arxiv.org/abs/2410.23891)) | MS optical (S2, L8, and L9), SAR (S1) | :-1: | Image Regression | Global | https://allclear.cs.cornell.edu/ | .. |
 CropDeepTrans ([Barriere et al. 2024](https://www.sciencedirect.com/science/article/pii/S0034425724001214)) | MS optical (S2), metadata | :+1: | Image Classification | Netherlands and France | https://jeodpp.jrc.ec.europa.eu/ftp/jrc-opendata/DRLL/CropDeepTrans/ | .. |
 MMEarth ( [Nedungadi et al. 2024](http://arxiv.org/abs/2405.02771) ) | MS optical (S2), SAR (S1), DSM (aster DEM), vegetation height, landcover, biome, ecoregion, weather (ERA5) | :-1: | None (unsupervised) | Global | https://github.com/vishalned/MMEarth-data |.. |
@@ -39,6 +41,7 @@ ForestNet ([Irvin et al. 2020](https://arxiv.org/abs/2011.05479)) | MS optical (
 AI4Food ([Kondmann et al. 2021](https://openreview.net/forum?id=uUa4jNMLjrL)) | 2 MS optical (S2, PlanetFusion), SAR (S1) | :+1: | Image Classification | Germany | https://doi.org/10.34911/rdnt.z9y7vu | .. |
 Sen1Floods11 ([Bonafilia et al. 2020](https://doi.org/10.1109/CVPRW50498.2020.00113)) | MS optical (S2), SAR (S1) | :-1: | Image Segmentation | Global | https://github.com/cloudtostreet/Sen1Floods11 | .. |
 So2Sat LCZ42 ([Zhu et al. 2020](https://doi.org/10.1109/MGRS.2020.2964708)) | MS Optical (S2), SAR (S1) | :-1: | Image Classification | Global | https://mediatum.ub.tum.de/1483140 | https://doi.org/10.14459/2018mp1483140 |
+CrisisMMD | optical, text (tweets) | :-1: | Classification | Global | https://crisisnlp.qcri.org/crisismmd | ... |
 ISPRS 2D Challenge  | UAV-based: MS optical, DSM |  :-1: | Image Segmentation | Germany | https://www.isprs.org/education/benchmarks/UrbanSemLab | .. |
 MSLCC | MS optical (S2), SAR (S1) | :-1: | Image Segmentation | Germany | https://www.dlr.de/eoc/en/desktopdefault.aspx/tabid-12760/22294_read-51180 | ..|
 University of Houston | UAV-based: HS and RGB optical, DSM (LiDAR) | :-1: | Image Segmentation | USA | https://hyperspectral.ee.uh.edu/?page_id=1075 | .. |
