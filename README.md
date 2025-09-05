@@ -8,6 +8,7 @@ List of remote sensing (RS) multi-view datasets for exploring multi-view fusion 
 | Dataset | RS views | Temporal? | Task | Region | URL | Additional URL|
 |---------|----------|-----------|------|--------|-----|---------------|
 GlobalGeoTree ([Mu et al.](https://arxiv.org/abs/2505.12513)) | MS optical (S2), weather, DEM, soil properties | :+1: | Image Classification | Global | https://huggingface.co/datasets/yann111/GlobalGeoTree | ... |
+TerraMesh ([Blumenstiel et al.](https://arxiv.org/abs/2504.11172)) | MS optical (S2), SAR (S1), land-cover, DEM | :-1: | None (unsupervised) | Global | https://huggingface.co/datasets/ibm-esa-geospatial/TerraMesh | ... |
 FLAIR-HUB ([Garioud et al.](https://arxiv.org/abs/2506.07080)) | MS optical (S2, SPOT), aerial, DEM, SAR (S1) | :-1: | Image Segmentation | France | https://huggingface.co/datasets/IGNF/FLAIR-HUB | ... |
 MagicBathyNet | optical (S2, SPOT), aerial, DEM | :-1: | Classification | Cyprus/Poland | https://zenodo.org/records/10470959 | ... |
 AllClear ([Zhou et al. 2024](http://arxiv.org/abs/2410.23891)) | MS optical (S2, L8, and L9), SAR (S1) | :-1: | Image Regression | Global | https://allclear.cs.cornell.edu/ | .. |
