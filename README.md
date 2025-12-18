@@ -7,7 +7,7 @@ List of remote sensing (RS) multi-view datasets for exploring multi-view fusion 
 
 | Dataset | RS views | Temporal? | Task | Region | URL | Additional URL|
 |---------|----------|-----------|------|--------|-----|---------------|
-DeepExtremeCubes ([Rodriguez et al.](https://www.sciencedirect.com/science/article/pii/S1569843224001092)) | MS optical (S2), weather, DEN, land-cover | :+1: | Image Classification | Global | https://opara.zih.tu-dresden.de/items/bb45480f-f7d3-420f-85b8-b4993715b761 | ... |
+DeepExtremeCubes ([Ji et al.](https://www.nature.com/articles/s41597-025-04447-5)) | MS optical (S2), weather, DEN, land-cover | :+1: | Image Classification | Global | https://opara.zih.tu-dresden.de/items/bb45480f-f7d3-420f-85b8-b4993715b761 | ... |
 GlobalGeoTree ([Mu et al.](https://arxiv.org/abs/2505.12513)) | MS optical (S2), weather, DEM, soil properties | :+1: | Image Classification | Global | https://huggingface.co/datasets/yann111/GlobalGeoTree | ... |
 TerraMesh ([Blumenstiel et al.](https://arxiv.org/abs/2504.11172)) | MS optical (S2), SAR (S1), land-cover, DEM | :-1: | None (unsupervised) | Global | https://huggingface.co/datasets/ibm-esa-geospatial/TerraMesh | ... |
 FLAIR-HUB ([Garioud et al.](https://arxiv.org/abs/2506.07080)) | MS optical (S2, SPOT), aerial, DEM, SAR (S1) | :-1: | Image Segmentation | France | https://huggingface.co/datasets/IGNF/FLAIR-HUB | ... |
