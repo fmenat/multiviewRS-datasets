@@ -8,6 +8,7 @@ List of remote sensing (RS) multi-view datasets for exploring multi-view fusion 
 | Dataset | RS views | Temporal? | Task | Region | URL | Additional URL|
 |---------|----------|-----------|------|--------|-----|---------------|
 YieldSAT ([Miranda et al.](https://arxiv.org/abs/2604.00940)) | MS optical (S2), weather, DEM, soil | :+1: | Pixel-wise Regression | Argentina, Uruguay, Germany | https://yieldsat.github.io/ | ... |
+Sen12LandSlide ([Höhn et al.](https://www.nature.com/articles/s41597-025-06167-2) | MS optical (S2), SAR (S1), DEM | :+1: | Pixel-wise prediction | Global | https://huggingface.co/datasets/paulhoehn/Sen12Landslides | ...
 DeepExtremeCubes ([Ji et al.](https://www.nature.com/articles/s41597-025-04447-5)) | MS optical (S2), weather, DEM, land-cover | :+1: | Image Classification | Global | https://opara.zih.tu-dresden.de/items/bb45480f-f7d3-420f-85b8-b4993715b761 | ... |
 GlobalGeoTree ([Mu et al.](https://arxiv.org/abs/2505.12513)) | MS optical (S2), weather, DEM, soil properties | :+1: | Image Classification | Global | https://huggingface.co/datasets/yann111/GlobalGeoTree | ... |
 TerraMesh ([Blumenstiel et al.](https://arxiv.org/abs/2504.11172)) | MS optical (S2), SAR (S1), land-cover, DEM | :-1: | None (unsupervised) | Global | https://huggingface.co/datasets/ibm-esa-geospatial/TerraMesh | ... |
